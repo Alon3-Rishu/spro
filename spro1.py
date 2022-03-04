@@ -1,2 +1,2 @@
-from spro.cpython-310 import rishu
+from spro import rishu
 rishu()
