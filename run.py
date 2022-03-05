@@ -1,0 +1,2 @@
+import spro
+spro.rishu()
